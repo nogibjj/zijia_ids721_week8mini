@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# rust-mini-project-8
+Type `cargo run` to run the project.
 
 ## References
 
